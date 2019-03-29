@@ -1,0 +1,73 @@
+{
+  "name": "para-bridge-demo",
+  "version": "1.0.0",
+  "description": "a bridge api for js-ios/andriod rest",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paraofheaven/para-bridge-demo.git"
+  },
+  "keywords": [
+    "bridge",
+    "api",
+    "typecript"
+  ],
+  "author": "para",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paraofheaven/para-bridge-demo/issues"
+  },
+  "homepage": "https://github.com/paraofheaven/para-bridge-demo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/plugin-proposal-class-properties": "7.2.0",
+    "@babel/plugin-proposal-decorators": "^7.2.0",
+    "@babel/plugin-transform-async-to-generator": "^7.2.0",
+    "@babel/plugin-transform-runtime": "^7.2.0",
+    "@babel/preset-env": "7.2.0",
+    "@babel/preset-typescript": "^7.1.0",
+    "@babel/runtime": "^7.2.0",
+    "@types/jest": "^23.3.9",
+    "@types/node": "^10.12.10",
+    "autoprefixer": "^9.4.2",
+    "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-inferno": "^6.0.4",
+    "classnames": "^2.2.6",
+    "clean-webpack-plugin": "^1.0.0",
+    "copy-to-clipboard": "^3.0.8",
+    "copy-webpack-plugin": "^4.6.0",
+    "css-loader": "^1.0.1",
+    "file-loader": "^2.0.0",
+    "fork-ts-checker-webpack-plugin": "^0.5.0",
+    "highlight.js": "^9.13.1",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "image-webpack-loader": "^4.6.0",
+    "inferno": "^7.0.2",
+    "inferno-router": "^7.0.2",
+    "jest": "^23.6.0",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "markdown": "^0.5.0",
+    "markdown-loader": "^4.0.0",
+    "mini-css-extract-plugin": "^0.4.5",
+    "perfect-scrollbar": "^1.4.0",
+    "postcss-loader": "^3.0.0",
+    "serve": "^10.1.1",
+    "style-loader": "^0.23.1",
+    "ts-jest": "^23.10.5",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.1",
+    "venus-px2rem-loader": "^1.0.1",
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8",
+    "webpack-deep-scope-plugin": "^1.6.0",
+    "webpack-dev-server": "^3.1.4",
+    "para-utils": "^1.0.0"
+  }
+}
